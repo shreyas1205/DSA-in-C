@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
