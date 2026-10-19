@@ -1,4 +1,4 @@
-# DSA in C
+ï»¿# DSA in C
 
 Shreyas's data structures and algorithms practice in C.
 
@@ -6,7 +6,7 @@ Shreyas's data structures and algorithms practice in C.
 
 | Topic | Status |
 |---|---|
-| Arrays | Started |
+| Arrays | Pending verification |
 | Strings | Pending |
 | Linked Lists | Pending |
 | Stacks and Queues | Pending |
@@ -19,7 +19,8 @@ Shreyas's data structures and algorithms practice in C.
 | Problem | Status | Complexity |
 |---|---|---|
 | [LeetCode #1 Two Sum](https://leetcode.com/problems/two-sum/) | Pending verification | To be added after exact solution verification |
-| [LeetCode #167 Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Not solved | — |
-| [LeetCode #11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Not solved | — |
+| [LeetCode #167 Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Not solved | â€” |
+| [LeetCode #11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Not solved | â€” |
 
 Solutions will be added only after testing and verification.
+

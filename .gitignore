@@ -14,3 +14,36 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# Environment files and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+secrets/
+.ssh/
+
+# Generated files and local environments
+*.exe
+*.out
+*.o
+*.obj
+*.class
+*.pyc
+__pycache__/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
